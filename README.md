@@ -26,16 +26,18 @@ Qualquer tipo de dado deve sempre ser retornado no formato JSON.
 A API deverá ter usuários e faturas. Um usuário poderá ter uma ou mais faturas, enquanto uma fatura deverá percentecer somente à um usuário.
 
 **Usuários possuem:**
-Email (Email para login)
-Senha (Senha para login)
+
+* Email (Email para login)
+* Senha (Senha para login)
 
 **Faturas possuem:**
-Status (Podem ter os seguintes valores: Paga | Aberta | Atrasada)
-Vencimento (Data de vencimento da fatura)
-URL (Link para visualização da fatura)
+
+* Status (Podem ter os seguintes valores: Paga | Aberta | Atrasada)
+* Vencimento (Data de vencimento da fatura)
+* URL (Link para visualização da fatura)
 
 *Todos os campos são obrigatórios e não nulos*
-*Todos os dados populados deverão ser fakes.*
+*Não é necessário realizar upload de faturas, nem mesmo links reais para visualização das mesmas*
 
 ## Rotas
 
