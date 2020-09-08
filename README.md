@@ -27,6 +27,7 @@ A API deverá ter usuários e faturas. Um usuário poderá ter uma ou mais fatur
 
 **Usuários possuem:**
 
+* Nome (Nome do usuário)
 * Email (Email para autenticação)
 * Senha (Senha para autenticação)
 
@@ -44,7 +45,7 @@ A API deverá ter usuários e faturas. Um usuário poderá ter uma ou mais fatur
 Deverá implementar rotas que contemplem os seguintes objetivos:
 
 - Autenticar um usuário
-- Mostrar as informações do usuário autenticado.
+- Mostrar as informações do usuário autenticado (somente nome e e-mail).
 - CRUD de faturas do usuário autenticado (um usuário não deverá ter acesso à faturas de outro).
 - A rota de ler faturas deverá ter paginação, sendo, por padrão, 5 faturas por página.
 - Com excessão da rota de Autenticar um usuário, as demais deverão serem acessadas somente por usuários autenticados.
