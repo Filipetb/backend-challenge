@@ -55,6 +55,7 @@ Deverá implementar rotas que contemplem os seguintes objetivos:
 * Deve-se utilizar Laravel (7 ou superior) ou Slim (3.12 ou suporior) como frameworks.
 * Use mysql, mariadb ou SQLite para persistir os dados.
 * Use HTTP Basic Auth e/ou JWT para autenticar os usuários.
+* Qualquer tipo de dado deve sempre ser retornado no formato JSON (Erros, Respostas de Sucesso e Dados Soliciatitados).
 
 ## Requisitos Opcionais
 
