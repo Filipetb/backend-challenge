@@ -10,7 +10,7 @@ A necessidade é desenvolver o projeto "Gerencia Faturas", onde o usuráio pode 
 
 * Versione, com git, e hospede seu código em algum serviço de sua preferência: github, bitbucket, gitlab ou outro.
 * Crie um README com instruções claras sobre como executar sua obra.
-* Envie um email com o link do seu repositório para guilherme.brant@wecont.net
+* Envie um email com o link do seu repositório e um documento ou site com a visualização dos retornos das rotas (em imagens ou em textos) para guilherme.brant@wecont.net
 * Dúvidas podem ser enviadas para o mesmo email acima.
 
 ## API
