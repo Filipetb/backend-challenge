@@ -37,8 +37,7 @@ A API deverá ter usuários e faturas. Um usuário poderá ter uma ou mais fatur
 * Vencimento (Data de vencimento da fatura)
 * URL (Link para visualização da fatura)
 
-*Todos os campos são obrigatórios e não nulos*
-*Não é necessário realizar upload de faturas, nem mesmo links reais para visualização das mesmas*
+*Todos os campos são obrigatórios e não nulos. Não é necessário realizar upload de faturas, nem mesmo links reais para visualização das mesmas*
 
 ## Rotas
 
