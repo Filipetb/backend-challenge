@@ -60,6 +60,8 @@ Deverá implementar rotas que contemplem os seguintes objetivos:
 ## Requisitos Opcionais
 
 * Padronização do código: seguir diretrizes de padrão de projetos.
+* Campos adicionais de data de criação e atualização nas entidades (created_at e updated_at)
+* A entidade usuário poderá ter campos adicionais como email_verified_at ou remember_token (padrões do laravel) (este requisito opcional não será avaliado)
 
 ## Critérios de avaliação
 
